@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a free OpenAI API!](https://discord.gg/8zFK3pukZW)
 
-- 📚 Experienced with **REST APIs in Python**
+- 📚 Experienced with **REST APIs in Python and Bukkit plugins in Kotlin.**
 
 - 📫 How to reach me: **@thatlukinhasguy on Discord**
 
