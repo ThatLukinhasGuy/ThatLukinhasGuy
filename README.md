@@ -5,7 +5,7 @@
 
 - 📚 Experienced with **REST APIs in Python**
 
-- 📫 How to reach me **@thatlukinhasguy on Discord**
+- 📫 How to reach me: **@thatlukinhasguy on Discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
