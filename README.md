@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a free OpenAI reverse proxy!](https://discord.gg/freegpt)
 
-- 📚 Experienced with **REST APIs in Python and Bukkit plugins in Kotlin.**
+- 📚 Experienced with **REST APIs in Python.**
 
 - 📫 How to reach me: **@thatlukinhasguy_ on Discord.**
 
