@@ -4,7 +4,7 @@
 - My name is **Lucas**.
 - I am from **Brazil**.
 
-## 📚 Current projects
+## 📚 Coding experience and projects
 - 🔭 I’m currently working on [a free AI API](https://discord.gg/zukijourney).
 - 💻 Experience with **Python**, **NodeJS**, and **TypeScript**.
 
