@@ -1,4 +1,4 @@
-![cock](https://via.placeholder.com/800x100?text=Hey,+I'm+Lukinhas!+👋)
+# Hey, I'm Lukinhas! 👋
 
 ---
 
