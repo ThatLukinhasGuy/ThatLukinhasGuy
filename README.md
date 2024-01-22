@@ -1,4 +1,4 @@
-<div style="text-align: center; font-size: 24px;">Hey, I'm Lukinhas! 👋</div>
+![cock](https://via.placeholder.com/800x100?text=Hey,+I'm+Lukinhas!+👋)
 
 ---
 
