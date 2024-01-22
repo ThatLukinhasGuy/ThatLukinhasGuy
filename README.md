@@ -1,4 +1,4 @@
-<div align="center">Hey, I'm Lukinhas! 👋</div>
+<div style="text-align: center; font-size: 24px;">Hey, I'm Lukinhas! 👋</div>
 
 ---
 
