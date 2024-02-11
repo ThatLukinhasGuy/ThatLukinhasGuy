@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on [a free AI API](https://discord.gg/zukijourney).
 - 💻 Experience with **Python**, **NodeJS**, and **TypeScript**.
+- 🌎 I was born in Brazil.
 
 ***
 
