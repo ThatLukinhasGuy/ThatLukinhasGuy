@@ -2,7 +2,7 @@
 
 ***
 
-- 🔭 I’m currently developing a **free AI API** (discord.gg/zukijourney).
+- 🔭 I’m currently developing a (**free AI API.**)[discord.gg/zukijourney]
 - 💻 Experience with **Python**, **NodeJS**, and **TypeScript**.
 - 🙍‍♂️ I am 15 years old, and I am Brazilian.
 - 🎂 My birthday is at March 28th.
