@@ -1,4 +1,4 @@
-## Hey, I'm Lukinhas! 👋
+### Hey, I'm Lukinhas! 👋
 
 ***
 
@@ -9,4 +9,4 @@
 
 ***
 
-📫 How to reach me: *@thatlukinhasguy on Discord.*
+📫 How to reach me: **@thatlukinhasguy** on Discord.
